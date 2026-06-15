@@ -6,7 +6,7 @@ Gap-year developer from South Africa, sharpening my craft through Harvard's CS50
 
 <p align="left">
   <a href="https://github.com/DonLyons?tab=followers">
-    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DonLyons?color=92400E&labelColor=6B2D06&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DonLyons?color=92400E&labelColor=6B2D06&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
   <a href="https://github.com/DonLyons?tab=repositories&sort=stargazers">
     <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DonLyons?color=065F46&style=for-the-badge&labelColor=043D32&logo=star&logoColor=white"/>
