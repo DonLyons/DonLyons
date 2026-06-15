@@ -81,7 +81,7 @@ Gap-year developer from South Africa, sharpening my craft through Harvard's CS50
 don = {
     "location":     "South Africa",
     "education":    "NSC 90% avg (SACAI) → BSc Computer Science",
-    "currently":    "Gap year | Building projects | Applying for bursaries",
+    "currently":    "Gap year | Building projects | Self-Study | Applying for bursaries",
     "interests":    ["art 🎨", "animals 🐾", "nature 🌲", "photography 📸", "coffee ☕"],
     "goal":         "Become a skilled software developer who builds things that matter",
 }
