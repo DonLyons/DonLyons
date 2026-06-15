@@ -48,7 +48,7 @@ Gap-year developer from South Africa, sharpening my craft through Harvard's CS50
           <img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-4D7C0F?style=for-the-badge&logo=rocket&logoColor=white"/>
         </a>
       </p>
-      <p>A Flask web app powered by the <strong>Groq API (LLaMA 3.3 70B)</strong> that manages your pantry ingredients and generates AI recipes — prioritising items closest to expiry. Built with PostgreSql, Bootstrap 5, Flask-Session, and Jinja2.</p>
+      <p>A Flask web app integrating the <strong>Groq API (LLaMA 3.3 70B)</strong> to manage your pantry ingredients and generates AI recipes, prioritising items closest to expiry. Built with PostgreSQL, Bootstrap 5, Flask-Session, and Jinja2.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-44403C?style=flat-square&logo=flask&logoColor=white"/>
