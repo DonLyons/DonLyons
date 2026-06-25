@@ -2,7 +2,7 @@
 
 **`CS Student & Builder (Python · Flask · Web Dev)`**
 
-Gap-year developer from South Africa, sharpening my craft through Harvard's CS50 suite and independent projects while building towards a BSc in Computer Science. I care about writing clean code, solving real problems, and understanding the *why* behind every line.
+Gap-year developer from South Africa, sharpening my craft through self-studying CS and independent projects while building towards a BSc in Computer Science. I care about writing clean code, solving real problems, and understanding the *why* behind every line.
 
 <p align="left">
   <a href="https://github.com/DonLyons?tab=followers">
@@ -82,7 +82,7 @@ don = {
     "location":     "South Africa",
     "education":    "NSC 90% avg (SACAI) → BSc Computer Science",
     "currently":    "Gap year | Building projects | Self-Study | Applying for bursaries",
-    "interests":    ["art 🎨", "animals 🐾", "nature 🌲", "photography 📸", "coffee ☕"],
+    "interests":    ["gaming 🎮", "animals 🐾", "nature 🌲", "photography 📸", "coffee ☕"],
     "goal":         "Become a skilled software developer who builds things that matter",
 }
 ```
